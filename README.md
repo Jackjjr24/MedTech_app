@@ -2,7 +2,7 @@
 
 MedTech is an AI consultant app built using Flutter-Dart in Android Studio. It has Firebase for login authentication and Roboflow cloud ML model integration with Gemini API integration.
 
-![MedTech Mockup](assets/medtech.png)
+![MedTech Mockup](assets/images/medtech.png)
 
 ## Getting Started
 
